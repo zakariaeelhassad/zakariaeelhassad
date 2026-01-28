@@ -34,7 +34,7 @@
 
 🚀 I've built and contributed to multiple projects such as a project management system, a music streaming application, and a social networking platform focused on user interaction and performance.
 
-📫 If you're interested in collaboration, internships, or opportunities, feel free to reach out via email at <b>your.email@example.com</b> or connect with me on LinkedIn.
+📫 If you're interested in collaboration, internships, or opportunities, feel free to reach out via email at <b>zakariaelhassad031@gmail.com</b> or connect with me on LinkedIn.
 
 😎 Besides coding, I enjoy learning new technologies, improving my problem-solving skills, and building side projects to sharpen my expertise.
 
