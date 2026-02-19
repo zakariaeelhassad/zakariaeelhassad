@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Zakariae El Hassad! 👋</h1>
   <h3>Full-Stack Java & Angular Developer | AI Enthusiast</h3>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=27AE60&width=435&lines=Building+Smart+Solutions;Looking+for+a+PFE+Internship;Agadir,+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=27AE60&width=435&lines=Building+Smart+Solutions;Open+to+Job+Opportunities;Agadir,+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 * 🔭 I’m currently working on enhancing **delivery route optimization systems** and building **music management applications**.
 * 🌱 I’m currently exploring **Spring AI** and modern web development architectures.
-* 🎯 **Goal:** Actively looking for a **Pre-employment Internship (Stage pré-embauche)** to apply my skills in real-world projects.
+* 🎯 **Goal:** Open to **Full-Stack Developer roles** and ready to tackle exciting software engineering challenges.
 * ⚡ **Fun fact:** When I'm not coding, I'm probably listening to Rap, watching action anime (like *Gachiakuta* or *Soul Eater*), or exploring the lands of *Elden Ring*.
 
 ---
@@ -54,7 +54,10 @@
   <a href="mailto:zakariaelhasssad031@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/zakariaeelhassad">
+  <a href="https://github.com/zakariaeelhassad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/zakariae-el-hassad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
