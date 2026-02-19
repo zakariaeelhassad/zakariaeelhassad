@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Zakariae El Hassad! 👋</h1>
-  <h3>Full-Stack Java & Angular Developer | AI Enthusiast</h3>
+  <h3>Full-Stack Java & Angular Developer</h3>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=27AE60&width=435&lines=Building+Smart+Solutions;Open+to+Job+Opportunities;Agadir,+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
 </div>
